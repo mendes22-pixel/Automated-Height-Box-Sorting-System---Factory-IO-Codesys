@@ -19,4 +19,4 @@ A professional industrial automation solution for real-time box classification. 
 * **HMI Graphics:** Advanced visual feedback using dynamic color variables (DWORD) for industrial-grade UI.
 
 ## 📸 In Action
-![System Demo]()
+[System Demo](Media/Height_Sort_Factory_IO_Codesys.gif)
