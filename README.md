@@ -19,4 +19,4 @@ An industrial automation solution for real-time box classification. This project
 * **Data Architecture:** Modular design using custom Function Blocks (FBs), Global Variable Lists (GVLs), and STRUCTs.
 
 ## 📸 In Action
-[System Demo](Media/Height_Sort_Factory_IO_Codesys.gif)
+![System Demo](Media/Height_Sort_Factory_IO_Codesys.gif)
