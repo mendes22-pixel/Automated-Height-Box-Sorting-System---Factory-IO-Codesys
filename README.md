@@ -7,7 +7,8 @@ A professional industrial automation solution for real-time box classification. 
 * **Height Classification:** 2-sensor digital array (High/Low) to identify Tall and Short boxes.
 * **Dual Operation Modes:** Seamlessly synchronized between the physical control panel and a custom HMI.
 * **Smart Diverters:** Logic-controlled pneumatic pushers for precise routing into exit lanes.
-* **Dynamic HMI Feedback:** - Real-time status messages (Idle, Running, Paused, Emergency).
+* **Dynamic HMI Feedback:** 
+  - Real-time status messages (Idle, Running, Paused, Emergency).
   - Production counters for each box type.
   - Backlit direction indicators for active conveyors.
 * **Safety Logic:** Integrated Emergency Stop handling with system-ready monitoring.
