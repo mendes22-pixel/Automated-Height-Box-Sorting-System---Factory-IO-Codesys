@@ -1,5 +1,5 @@
 # 📦 Box Height Sorting System
-**PLC: CODESYS V3.5 | Simulation: Factory I/O**
+**PLC: CODESYS V3.5 || Simulation: Factory I/O**
 
 An industrial automation solution for real-time box classification. This project focuses on sorting using a dual-sensor array to distinguish and route items based on their height.
 
