@@ -13,7 +13,7 @@ An industrial automation solution for real-time box classification. This project
   - Backlit direction indicators for active conveyors.
 * **Safety Logic:** Integrated Emergency Stop handling with system-ready monitoring.
 
-## 🏗️ Technical Setup
+## 🛠️ Technical Setup
 * **Logic:** **Structured Text (ST)** for the sorting state machine + **Ladder Diagram (LD)** for I/O mapping and HMI sync.
 * **State Management:** Robust transitions using **ENUMs** and **CASE OF** logic to ensure deterministic operation.
 * **Data Architecture:** Modular design using custom Function Blocks (FBs), Global Variable Lists (GVLs), and STRUCTs.
